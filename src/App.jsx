@@ -6,8 +6,7 @@ import About from "./pages/About";
 import Services from "./pages/Services";
 import Contact from "./pages/Contact";
 import SignIn from "./pages/SignIn";
-import Signup from "./pages/Signup";
-
+import Signup from "./pages/SignUp";
 const App = () => {
   return (
     <Router>
